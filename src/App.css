@@ -1,0 +1,8 @@
+body{
+  background: url(background.jpg) no-repeat center center fixed #173f5f6c;;
+  -webkit-background:cover ;
+  -moz-background:cover ;
+  -o-background:cover ;
+  background:cover ;
+  
+}
